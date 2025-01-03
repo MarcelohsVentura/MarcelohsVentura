@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&width=1000&lines=Bem-vindo+ao+meu+perfil;Welcome+to+my+profile;Benvenuto+nel+mio+profilo)](https://git.io/typing-svg)
 
 ## 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Sobre+mim;About+me;su+di+me)](https://git.io/typing-svg)
-<hr>
+
 
 🙋‍♂️ Olá :) me chamo Marcelo Ventura e tenho 26 anos! Sou Arquiteto, urbanista e artista 3D, formado em análise e desenvolvimento de sistemas e cursando o 6° semestre de Sistemas de Informação na <a href="https://portal.anhembi.br/"> Universidade Anhembi Morumbi </a>.
 Sou apaixonado por leitura, no meu tempo livre passo a maior parte do tempo me entretendo com livros, jogos de computador, ao ar livre e conhecendo novos lugares.
@@ -13,7 +13,7 @@ Sou apaixonado por leitura, no meu tempo livre passo a maior parte do tempo me e
 <br/>
 
 ## 📂 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Meus+projetos;My+projects;i+miei+progetti)](https://git.io/typing-svg)
-<hr>
+
 Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de estudo, trabalho de faculdade ou de algum curso/tutorial que utilizei como base para estudar.
 - ▶ <a href="https://github.com/MarcelohsVentura/SystemBank">Sistema bancário em java com Spring Boot e PostgreSQL</a>
 - ▶ <a href= "https://github.com/MarcelohsVentura/SystemBankPOO"> Sistema bancário em java POO</a>
@@ -21,7 +21,7 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 <br/>
 
 ## 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Tecnologias+que+utilizo;technologies+I+use;tecnologie+che+utilizzo)](https://git.io/typing-svg)
-<hr>
+
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgree](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -30,8 +30,9 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&LabelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&LabelColor=0D1117)&nbsp;
+
 ## ✨ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Tecnologias+de+interesse;technologies+of+interest;tecnologie+di+interesse)](https://git.io/typing-svg)
-<hr>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
