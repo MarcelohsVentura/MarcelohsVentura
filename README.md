@@ -30,6 +30,7 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&LabelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&LabelColor=0D1117)&nbsp;
+![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
 
 ## ✨ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Tecnologias+de+interesse;technologies+of+interest;tecnologie+di+interesse)](https://git.io/typing-svg)
 
@@ -42,7 +43,7 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 <br/>
 
 ## 📊 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Estatísticas;Statistics;Statistiche)](https://git.io/typing-svg)
-<hr>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcelohsVentura&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Marcelo Ventura github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelohsVentura&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
@@ -74,4 +75,4 @@ Caso queira me encontrar, entre em contato por meio dos links abaixo! Estou semp
 
 
 
-![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
+
