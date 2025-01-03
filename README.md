@@ -28,7 +28,7 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&logoColor=black&LabelColor=0D1117)&nbsp;
+![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow&LabelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54&LabelColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
 
