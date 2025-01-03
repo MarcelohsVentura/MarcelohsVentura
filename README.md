@@ -28,8 +28,8 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&LabelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&LabelColor=0D1117)&nbsp;
+![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&logoColor=black&LabelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54&LabelColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
 
 ## ✨ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Tecnologias+de+interesse;technologies+of+interest;tecnologie+di+interesse)](https://git.io/typing-svg)
@@ -60,7 +60,7 @@ Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de 
 <br/>
 
 ## 🔎 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Contatos;Contacts;Contatti)](https://git.io/typing-svg)
-<hr>
+
 Caso queira me encontrar, entre em contato por meio dos links abaixo! Estou sempre aberto a sugestões, e procurando a aprender mais e trocar conhecimento!
 
 <div align="center"> 
