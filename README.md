@@ -5,18 +5,19 @@
 ## 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Sobre+mim;About+me;su+di+me)](https://git.io/typing-svg)
 
 
-🙋‍♂️ Olá :) me chamo Marcelo Ventura e tenho 26 anos! Sou Arquiteto, urbanista e artista 3D, formado em análise e desenvolvimento de sistemas e cursando o 6° semestre de Sistemas de Informação na <a href="https://portal.anhembi.br/"> Universidade Anhembi Morumbi </a>.
-Sou apaixonado por leitura, no meu tempo livre passo a maior parte do tempo me entretendo com livros, jogos de computador, ao ar livre e conhecendo novos lugares.
-
-📖 Possuo conhecimentos intermediário em Java, programação orientada a objetos (POO), testes unitários e de integração, framework Spring Boot, HTML e CSS. Domínio básico em banco de dados (MySQL), javascript, power BI, python e suporte e manutenção de computadores.
-
+🙋‍♂️ Olá :) me chamo Marcelo Ventura e tenho 27 anos! Sou um profissional com experiência em SaaS (Builderall) nas áreas de suporte técnico e financeiro, com atuação em análise de processos, resolução de problemas e integrações de sistemas.
+Background multidisciplinar: Arquiteto e Urbanista com experiência em visualização 3D e cofundador de estúdio criativo, atualmente em transição consolidada para a área de tecnologia.
+📖 Conhecimentos em Java, Spring Boot, SQL, MySQL, Postgree, Python, Power BI, HTML e CSS, com foco em backend, análise de dados e qualidade de software. Formação em Análise e Desenvolvimento de Sistemas e estudante de Sistemas de Informação (7º semestre).
+Busco oportunidades onde possa aplicar pensamento analítico, organização e visão estratégica para desenvolvimento de soluções tecnológicas eficientes.
 <br/>
 
 ## 📂 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Meus+projetos;My+projects;i+miei+progetti)](https://git.io/typing-svg)
 
-Ainda estou subindo meus projetos! A grande maioria foram feitos como objeto de estudo, trabalho de faculdade ou de algum curso/tutorial que utilizei como base para estudar.
-- ▶ <a href="https://github.com/MarcelohsVentura/SystemBank">Sistema bancário em java com Spring Boot e PostgreSQL</a>
-- ▶ <a href= "https://github.com/MarcelohsVentura/SystemBankPOO"> Sistema bancário em java POO</a>
+Estou organizando e publicando meus projetos com foco em demonstrar minha evolução técnica e aplicação prática de boas práticas de desenvolvimento.
+Grande parte dos projetos foi desenvolvida durante minha formação e estudos direcionados, incluindo atividades acadêmicas e implementações baseadas em cursos.
+Atualmente, meu foco está em Testes de Software com Java (JUnit, Mockito, testes unitários e de integração) e Análise de Dados, buscando aplicar conceitos como cobertura de testes, qualidade de código, validação de regras de negócio e análise orientada a dados.
+- ▶ <a href="link">Projeto A</a>
+- ▶ <a href= "link"> Projeto B</a>
 
 <br/>
 
