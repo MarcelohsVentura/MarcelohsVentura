@@ -43,11 +43,9 @@ Atualmente, meu foco está em Testes de Software com Java (JUnit, Mockito, teste
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 <br/>
 
-t
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcelohsVentura&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Marcelo Ventura github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelohsVentura&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
-</div>
+## 📊 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=15&size=20&pause=1000&width=435&lines=Estatísticas;Statistics;Statistiche)](https://git.io/typing-svg)
+
+
 
 
 <picture>
