@@ -6,8 +6,8 @@
 
 
 🙋‍♂️ Olá :) me chamo Marcelo Ventura e tenho 27 anos! Sou um profissional com experiência em SaaS (Builderall) nas áreas de suporte técnico e financeiro, com atuação em análise de processos, resolução de problemas e integrações de sistemas.
-Background multidisciplinar: Arquiteto e Urbanista com experiência em visualização 3D e cofundador de estúdio criativo, atualmente em transição consolidada para a área de tecnologia.
-📖 Conhecimentos em Java, Spring Boot, SQL, MySQL, Postgresql, Python, Power BI, HTML e CSS, com foco em backend, análise de dados e qualidade de software. Formação em Análise e Desenvolvimento de Sistemas e estudante de Sistemas de Informação (7º semestre).
+Background multidisciplinar: Arquiteto e Urbanista com experiência em visualização 3D e cofundador de estúdio criativo, atualmente em transição consolidada para a área de tecnologia. <br/>
+📖 Conhecimentos em Java, Spring Boot, SQL, MySQL, Postgresql, Python, Power BI, HTML e CSS, com foco em backend, análise de dados e qualidade de software. Formação em Análise e Desenvolvimento de Sistemas e estudante de Sistemas de Informação (7º semestre).  <br/>
 Busco oportunidades onde possa aplicar pensamento analítico, organização e visão estratégica para desenvolvimento de soluções tecnológicas eficientes.
 <br/>
 
